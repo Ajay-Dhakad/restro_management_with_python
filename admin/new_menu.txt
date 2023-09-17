@@ -1,0 +1,1 @@
+{'water': 10, 'burger': 30, 'pizza': 45}
